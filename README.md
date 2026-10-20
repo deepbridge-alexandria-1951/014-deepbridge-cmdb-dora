@@ -24,15 +24,17 @@ SUPPORT IS STRICTLY NON-EXISTENT. IF YOU MUTATE YOUR INFRASTRUCTURE, YOU OWN THE
 
 ==============================================================================
 
-## NIS 2 Compliance Metadata
+## DORA Compliance Metadata
 
-This module supports the documentation of NIS 2-related metadata for data-processing assets. It includes classifications for personal, special-category, biometric, and genetic data; legal bases for processing; and data-subject rights.
+This module supports the documentation of DORA-related metadata for ICT operational resilience assets. It includes classifications for ICT risk management frameworks, incident classification and severity levels, and third-party risk assessments.
 
-Processing metadata supports documenting the data category, legal basis, purpose, number of affected data subjects, retention period, third-party sharing, and applicable data-subject rights. It also supports recording an optional legitimate-interest assessment.
+ICT risk-management metadata supports documenting risk-identification and risk-assessment procedures, risk-mitigation strategies, ICT concentration risk exposure, legacy-system dependencies, and resilience-testing schedules. It also supports recording governance structures, including board oversight, CISO role designation, and escalation procedures.
 
-The data protection by design and default metadata supports documenting DPIA status, data-minimization, storage-limitation, and purpose-limitation measures, as well as transparency information. Security metadata supports recording information about encryption, access controls, pseudonymization, testing, incident-response planning, and employee training.
+Incident-management metadata supports documenting incident detection and classification, reporting timelines, notification requirements to competent authorities, incident-severity assessment, root-cause analysis, and remediation status. It also captures incident-register tracking and incident-response plan validation.
 
-Incident metadata supports documenting breach risk assessments, notification requirements, breach-register status, DPIA triggers, and a high-risk threshold. The asset-level record supports organizing this information alongside asset identifiers, data protection authority contact details, the date of the most recent DPIA, and a compliance score.
+Testing and validation metadata supports recording penetration-testing schedules, test outcomes, vulnerabilities identified, remediation tracking, and third-party security assessments. Transparency information documents audit-trail completeness, logging mechanisms, and evidence retention for regulatory inspection.
+
+Supply-chain metadata supports documenting third-party ICT service provider assessments, contractual obligations, dependency mapping, and alternative-provider arrangements. The asset-level record supports organizing this information alongside asset identifiers, ICT risk-owner contact details, the date of the most recent resilience test, incident-history summary, and a compliance score.
 
 
 ==========================================================================================
