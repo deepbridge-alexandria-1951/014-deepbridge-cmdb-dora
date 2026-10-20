@@ -37,7 +37,7 @@ Testing and validation metadata supports recording penetration-testing schedules
 Supply-chain metadata supports documenting third-party ICT service provider assessments, contractual obligations, dependency mapping, and alternative-provider arrangements. The asset-level record supports organizing this information alongside asset identifiers, ICT risk-owner contact details, the date of the most recent resilience test, incident-history summary, and a compliance score.
 
 
-==========================================================================================
+==============================================================================
 
 ## Development Approach
 
