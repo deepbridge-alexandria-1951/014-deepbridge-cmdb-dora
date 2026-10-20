@@ -42,5 +42,5 @@ Supply-chain metadata supports documenting third-party ICT service provider asse
 ## Development Approach
 
 This application was architected with AI assistance. The architect specified the requirements, 
-constraints (NIS 2 compliance, Python 3.12, PostgreSQL 14, Ollama 0.33), and functional specifications. 
+constraints (DORA compliance, Python 3.12, PostgreSQL 14, Ollama 0.33), and functional specifications. 
 The AI language model generated the implementation, database schemas, and documentation accordingly.
