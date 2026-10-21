@@ -16,10 +16,13 @@ This software executes low-level kernel-space, memory, and hardware-near process
 
 THE AUTHOR ACCEPTS ABSOLUTELY ZERO LIABILITY FOR:
 
-Thermal Aggression & Hardware Stress: Burned motherboard circuits, CPU core failures, thermal throttling degradation, or destroyed legacy hardware appliances resulting from excessive I/O execution loops under unthrottled benchmark conditions.
-Regulatory & Financial Non-Compliance: Any operational or regulatory compliance failures under GDPR, EU AI Act, NIS 2, DORA, SCHREMS II or the ZTA caused by improper deployment, modification of core pipelines, or infrastructure misconfiguration.
-State & Memory Contamination: Cross-session cache pollution, transient data memory contamination, or atomic pipeline leaks due to unauthorized modification of the core architecture.
-Operational Execution Errors: Technical incompetence, improper deployment configurations, or out-of-bounds implementation environments.
+- Thermal Aggression & Hardware Stress: Burned motherboard circuits, CPU core failures, thermal throttling degradation, or destroyed legacy hardware appliances resulting from excessive I/O execution loops under unthrottled benchmark conditions.
+- Regulatory & Financial Non-Compliance: Any operational or regulatory compliance failures under GDPR, EU AI Act, NIS 2, DORA, SCHREMS II or the ZTA caused by improper deployment, modification of core pipelines, or infrastructure misconfiguration.
+- State & Memory Contamination: Cross-session cache pollution, transient data memory contamination, or atomic pipeline leaks due to unauthorized modification of the core architecture.
+- Operational Execution Errors: Technical incompetence, improper deployment configurations, or out-of-bounds implementation environments.
+
+<br>
+
 SUPPORT IS STRICTLY NON-EXISTENT. IF YOU MUTATE YOUR INFRASTRUCTURE, YOU OWN THE BREAK.
 
 ==============================================================================
@@ -42,5 +45,5 @@ Supply-chain metadata supports documenting third-party ICT service provider asse
 ## Development Approach
 
 This application was architected with AI assistance. The architect specified the requirements, 
-constraints (DORA compliance, Python 3.12, PostgreSQL 14, Ollama 0.33), and functional specifications. 
-The AI language model generated the implementation, database schemas, and documentation accordingly.
+constraints (DORA compliance, Python 3.12), and functional specifications. 
+The AI language model generated the implementation and documentation accordingly.
